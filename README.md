@@ -1,4 +1,4 @@
-# VAT-GAN
+# I2V-GAN
 Action Transfer 
 Subject 1
 
