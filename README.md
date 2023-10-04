@@ -1,6 +1,9 @@
 # I2V-GAN
 Action Transfer 
-Subject 1
+**Source Subject 1**
+
+
+Source Subject 1 Appearnace transfer to Same Target Subject 1
 
 
 
@@ -16,10 +19,11 @@ https://user-images.githubusercontent.com/53044443/189128744-e2a73137-256f-409d-
 https://user-images.githubusercontent.com/53044443/189128928-fe50467e-f9da-44e1-90fe-954bfc2a0960.mp4
 
 
-Subject 4
+**Source Subject 4**
 
 
 
+Source Subject 4 Appearnace transfer to Same Target Subject 4
 
 
 https://user-images.githubusercontent.com/53044443/189128386-10c3035f-6534-46f8-b692-115ee0d91786.mp4
